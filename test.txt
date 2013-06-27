@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Nu med indhold
 Og mere endnu
+=======
+>>>>>>> parent of 6128f80... Med lidt indhold
